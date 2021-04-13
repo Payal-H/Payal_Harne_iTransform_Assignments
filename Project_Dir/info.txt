@@ -1,2 +1,0 @@
-this is info txt file
-changes after ignoring
